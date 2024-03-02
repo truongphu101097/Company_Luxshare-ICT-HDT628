@@ -1,0 +1,36 @@
+C:\Users\CH190360\Desktop\NEW MODEL\MerryTestFramework.app\MerryTestFramework.testitem\obj\Release\MerryTestFramework.testitem.Forms.MessageBoxs.resources
+C:\Users\CH190360\Desktop\NEW MODEL\MerryTestFramework.app\MerryTestFramework.testitem\obj\Release\MerryTestFramework.testitem.Forms.ProgressBars.resources
+C:\Users\CH190360\Desktop\NEW MODEL\MerryTestFramework.app\MerryTestFramework.testitem\obj\Release\MerryTestFramework.testitem.csproj.GenerateResource.Cache
+C:\Users\CH190360\Desktop\NEW MODEL\MerryTestFramework.app\MerryTestFramework.testitem\bin\Release\MerryTestFramework.testitem.dll
+C:\Users\CH190360\Desktop\NEW MODEL\MerryTestFramework.app\MerryTestFramework.testitem\bin\Release\MerryTestFramework.testitem.pdb
+C:\Users\CH190360\Desktop\NEW MODEL\MerryTestFramework.app\MerryTestFramework.testitem\bin\Release\Bass.Net.dll
+C:\Users\CH190360\Desktop\NEW MODEL\MerryTestFramework.app\MerryTestFramework.testitem\bin\Release\MESDLL.dll
+C:\Users\CH190360\Desktop\NEW MODEL\MerryTestFramework.app\MerryTestFramework.testitem\bin\Release\Microsoft.DirectX.DirectSound.dll
+C:\Users\CH190360\Desktop\NEW MODEL\MerryTestFramework.app\MerryTestFramework.testitem\bin\Release\Microsoft.DirectX.dll
+C:\Users\CH190360\Desktop\NEW MODEL\MerryTestFramework.app\MerryTestFramework.testitem\bin\Release\NAudio.dll
+C:\Users\CH190360\Desktop\NEW MODEL\MerryTestFramework.app\MerryTestFramework.testitem\bin\Release\Newtonsoft.Json.dll
+C:\Users\CH190360\Desktop\NEW MODEL\MerryTestFramework.app\MerryTestFramework.testitem\bin\Release\SwATE_Net.dll
+C:\Users\CH190360\Desktop\NEW MODEL\MerryTestFramework.app\MerryTestFramework.testitem\obj\Release\MerryTestFramework.testitem.csprojResolveAssemblyReference.cache
+C:\Users\CH190360\Desktop\NEW MODEL\MerryTestFramework.app\MerryTestFramework.testitem\obj\Release\MerryTestFramework.testitem.dll
+C:\Users\CH190360\Desktop\NEW MODEL\MerryTestFramework.app\MerryTestFramework.testitem\obj\Release\MerryTestFramework.testitem.pdb
+C:\Users\CH180265\Desktop\model&&dll\MerryTestFramework.app\MerryTestFramework.testitem\bin\Release\MerryTestFramework.testitem.dll
+C:\Users\CH180265\Desktop\model&&dll\MerryTestFramework.app\MerryTestFramework.testitem\bin\Release\MerryTestFramework.testitem.pdb
+C:\Users\CH180265\Desktop\model&&dll\MerryTestFramework.app\MerryTestFramework.testitem\bin\Release\Bass.Net.dll
+C:\Users\CH180265\Desktop\model&&dll\MerryTestFramework.app\MerryTestFramework.testitem\obj\Release\MerryTestFramework.testitem.csprojResolveAssemblyReference.cache
+C:\Users\CH180265\Desktop\model&&dll\MerryTestFramework.app\MerryTestFramework.testitem\obj\Release\MerryTestFramework.testitem.Forms.MessageBoxs.resources
+C:\Users\CH180265\Desktop\model&&dll\MerryTestFramework.app\MerryTestFramework.testitem\obj\Release\MerryTestFramework.testitem.Forms.ProgressBars.resources
+C:\Users\CH180265\Desktop\model&&dll\MerryTestFramework.app\MerryTestFramework.testitem\obj\Release\MerryTestFramework.testitem.csproj.GenerateResource.Cache
+C:\Users\CH180265\Desktop\model&&dll\MerryTestFramework.app\MerryTestFramework.testitem\obj\Release\MerryTestFramework.testitem.dll
+C:\Users\CH180265\Desktop\model&&dll\MerryTestFramework.app\MerryTestFramework.testitem\obj\Release\MerryTestFramework.testitem.pdb
+C:\Users\CH200001\Desktop\MerryTestFramework.app\MerryTestFramework.testitem\bin\Release\MerryTestFramework.testitem.dll
+C:\Users\CH200001\Desktop\MerryTestFramework.app\MerryTestFramework.testitem\bin\Release\MerryTestFramework.testitem.pdb
+C:\Users\CH200001\Desktop\MerryTestFramework.app\MerryTestFramework.testitem\bin\Release\Bass.Net.dll
+C:\Users\CH200001\Desktop\MerryTestFramework.app\MerryTestFramework.testitem\bin\Release\Newtonsoft.Json.dll
+C:\Users\CH200001\Desktop\MerryTestFramework.app\MerryTestFramework.testitem\obj\Release\MerryTestFramework.testitem.csprojAssemblyReference.cache
+C:\Users\CH200001\Desktop\MerryTestFramework.app\MerryTestFramework.testitem\obj\Release\MerryTestFramework.testitem.Forms.MessageBoxs.resources
+C:\Users\CH200001\Desktop\MerryTestFramework.app\MerryTestFramework.testitem\obj\Release\MerryTestFramework.testitem.Forms.ProgressBars.resources
+C:\Users\CH200001\Desktop\MerryTestFramework.app\MerryTestFramework.testitem\obj\Release\MerryTestFramework.testitem.csproj.GenerateResource.cache
+C:\Users\CH200001\Desktop\MerryTestFramework.app\MerryTestFramework.testitem\obj\Release\MerryTestFramework.testitem.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\MerryTestFramework.app\MerryTestFramework.testitem\obj\Release\MerryTestFramework.testitem.csproj.CopyComplete
+C:\Users\CH200001\Desktop\MerryTestFramework.app\MerryTestFramework.testitem\obj\Release\MerryTestFramework.testitem.dll
+C:\Users\CH200001\Desktop\MerryTestFramework.app\MerryTestFramework.testitem\obj\Release\MerryTestFramework.testitem.pdb

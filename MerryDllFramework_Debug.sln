@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerryDllFramework_Debug", "MerryDllFramework_Debug\MerryDllFramework_Debug.csproj", "{93FFED8A-CB17-4522-924B-C57FAE242B58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerryDllFramework", "MerryDllFramework\MerryDllFramework.csproj", "{BB73ACF2-8D95-423D-BC75-FC58FC55BB17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93FFED8A-CB17-4522-924B-C57FAE242B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93FFED8A-CB17-4522-924B-C57FAE242B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93FFED8A-CB17-4522-924B-C57FAE242B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93FFED8A-CB17-4522-924B-C57FAE242B58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB73ACF2-8D95-423D-BC75-FC58FC55BB17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB73ACF2-8D95-423D-BC75-FC58FC55BB17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB73ACF2-8D95-423D-BC75-FC58FC55BB17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB73ACF2-8D95-423D-BC75-FC58FC55BB17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

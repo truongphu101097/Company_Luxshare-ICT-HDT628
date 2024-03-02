@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2D66CDAE-3D50-4A97-A408-2F6113C1F5A1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MerryTestFramework.testitem</RootNamespace>
+    <AssemblyName>MerryTestFramework.testitem</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Debug\MerryTestFramework.testitem.XML</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bass.Net">
+      <HintPath>..\MerryTestFramework.app\bin\Release\Bass.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="MESDLL">
+      <HintPath>..\..\..\MyJob\M-TestFramework\MECH-Test\bin\Debug\MESDLL.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.DirectX">
+      <HintPath>..\..\..\MyJob\M-TestFramework\MECH-Test\bin\Debug\Microsoft.DirectX.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.DirectX.DirectSound">
+      <HintPath>..\..\..\MyJob\M-TestFramework\MECH-Test\bin\Debug\Microsoft.DirectX.DirectSound.dll</HintPath>
+    </Reference>
+    <Reference Include="NAudio">
+      <HintPath>..\..\..\MyJob\M-TestFramework\MECH-Test\bin\Debug\NAudio.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\MyJob\M-TestFramework\MECH-Test\bin\Debug\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PC_VolumeControl">
+      <HintPath>..\..\..\HDT\引用空间\DLL\PC_VolumeControl.dll</HintPath>
+    </Reference>
+    <Reference Include="SwATE_Net">
+      <HintPath>..\..\..\MyJob\M-TestFramework\MECH-Test\bin\Debug\SwATE_Net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Computer\AdjustVolume.cs" />
+    <Compile Include="Computer\ReadFile.cs" />
+    <Compile Include="Forms\Invoke.cs" />
+    <Compile Include="Forms\MessageBoxs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MessageBoxs.designer.cs">
+      <DependentUpon>MessageBoxs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ProgressBars.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ProgressBars.designer.cs">
+      <DependentUpon>ProgressBars.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hardware\PCBA-32.cs" />
+    <Compile Include="Hardware\PowerSupply.cs" />
+    <Compile Include="Headset\ButtonTest.cs" />
+    <Compile Include="Hardware\Current.cs" />
+    <Compile Include="Headset\Command.cs" />
+    <Compile Include="Headset\CommandExtend.cs" />
+    <Compile Include="Headset\ComPort.cs" />
+    <Compile Include="Utils\DataConversion.cs" />
+    <Compile Include="Headset\GetHandle.cs" />
+    <Compile Include="Computer\Play.cs" />
+    <Compile Include="Headset\OldButtonTest.cs" />
+    <Compile Include="Headset\UpdateValue.cs" />
+    <Compile Include="Other\BaseConversion.cs" />
+    <Compile Include="AncestralDLL\GetMESBD.cs" />
+    <Compile Include="AncestralDLL\SoundCheck16.cs" />
+    <Compile Include="Other\MES.cs" />
+    <Compile Include="Other\SoundCheck.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Computer\UIAdaptiveSize.cs" />
+    <Compile Include="Computer\WindowControl.cs" />
+    <Compile Include="Computer\MessageBox.cs" />
+    <Compile Include="Computer\MouseControl.cs" />
+    <Compile Include="SoundCheck16.cs" />
+    <Compile Include="SoundcheckByMECH.cs" />
+    <Compile Include="Computer\VolumeTest.cs" />
+    <Compile Include="Utils\Copy.cs" />
+    <Compile Include="Utils\GetCRC.cs" />
+    <Compile Include="Utils\StringUpdateType.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\MessageBoxs.resx">
+      <DependentUpon>MessageBoxs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ProgressBars.resx">
+      <DependentUpon>ProgressBars.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
